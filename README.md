@@ -2,7 +2,7 @@
 
 <!-- ![Logo](https://wallpaperaccess.com/full/796847.jpg) -->
 
-<img src='https://cdn.discordapp.com/avatars/655881699304931368/e0794fd923ebaed493bf5d5ef9d9e0f4.png?size=4096' align="top" height='120'>
+<img src='https://cdn.discordapp.com/avatars/655881699304931368/e0794fd923ebaed493bf5d5ef9d9e0f4.png' align="top" height='120'>
 
 # @NotKaskus/project-template
 
