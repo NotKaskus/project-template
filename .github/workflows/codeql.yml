@@ -30,10 +30,11 @@ jobs:
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v1
 
-      - name: Autobuild
+      - name: Clean install dependencies and test
         run: |
           yarn install
-          yarn run lint
+          yarn run test
+        # Change run command
 
       - name: Perform CodeQL Analysis
         uses: github/codeql-action/analyze@v1
