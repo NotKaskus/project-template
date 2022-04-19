@@ -33,7 +33,7 @@
 		"url": "https://github.com/NotKaskus/template/issues"
 	},
 	"engines": {
-		"node": ">=v14.0.0",
+		"node": ">=v16.14.2",
 		"npm": ">=7.0.0"
 	},
 	"commitlint": {
