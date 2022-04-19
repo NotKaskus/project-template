@@ -32,7 +32,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/cli@npm:^16.2.3":
+"@commitlint/cli@npm:16.2.3":
   version: 16.2.3
   resolution: "@commitlint/cli@npm:16.2.3"
   dependencies:
@@ -51,7 +51,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@commitlint/config-conventional@npm:^16.2.1":
+"@commitlint/config-conventional@npm:16.2.1":
   version: 16.2.1
   resolution: "@commitlint/config-conventional@npm:16.2.1"
   dependencies:
@@ -298,7 +298,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@sapphire/prettier-config@npm:^1.4.2":
+"@sapphire/prettier-config@npm:1.4.3":
   version: 1.4.3
   resolution: "@sapphire/prettier-config@npm:1.4.3"
   dependencies:
@@ -404,14 +404,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wildpeaks/eslint-config-commonjs@npm:^15.4.0":
+"@wildpeaks/eslint-config-commonjs@npm:15.4.0":
   version: 15.4.0
   resolution: "@wildpeaks/eslint-config-commonjs@npm:15.4.0"
   checksum: ed14d5dff3c3bb3cb35d6576fc388691191fb42096cf18c76ba14620c12933592a4de7a28ce4b781984daf8a02b2320befb85f08c5dbe6b3c93ffc4cb38ae727
   languageName: node
   linkType: hard
 
-"@wildpeaks/prettier-config@npm:^15.4.0":
+"@wildpeaks/prettier-config@npm:15.4.0":
   version: 15.4.0
   resolution: "@wildpeaks/prettier-config@npm:15.4.0"
   checksum: 32c88522c72d84b7837617fff8b479d1c4313ecbfce79fe90766eb9a92ffb6286046f739910f17cf20a93ee05bf21a3e234c4b0ff0ac06fd35dbda8793084c36
@@ -1168,7 +1168,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-config-prettier@npm:^8.5.0":
+"eslint-config-prettier@npm:8.5.0":
   version: 8.5.0
   resolution: "eslint-config-prettier@npm:8.5.0"
   peerDependencies:
@@ -1179,7 +1179,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint-plugin-prettier@npm:^4.0.0":
+"eslint-plugin-prettier@npm:4.0.0":
   version: 4.0.0
   resolution: "eslint-plugin-prettier@npm:4.0.0"
   dependencies:
@@ -1229,7 +1229,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"eslint@npm:^8.12.0":
+"eslint@npm:8.13.0":
   version: 8.13.0
   resolution: "eslint@npm:8.13.0"
   dependencies:
@@ -2401,7 +2401,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"nodemon@npm:^2.0.15":
+"nodemon@npm:2.0.15":
   version: 2.0.15
   resolution: "nodemon@npm:2.0.15"
   dependencies:
@@ -2691,7 +2691,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prettier@npm:^2.6.2":
+"prettier@npm:2.6.2, prettier@npm:^2.6.2":
   version: 2.6.2
   resolution: "prettier@npm:2.6.2"
   bin:
@@ -2704,16 +2704,16 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "project-template@workspace:."
   dependencies:
-    "@commitlint/cli": ^16.2.3
-    "@commitlint/config-conventional": ^16.2.1
-    "@sapphire/prettier-config": ^1.4.2
-    "@wildpeaks/eslint-config-commonjs": ^15.4.0
-    "@wildpeaks/prettier-config": ^15.4.0
-    eslint: ^8.12.0
-    eslint-config-prettier: ^8.5.0
-    eslint-plugin-prettier: ^4.0.0
-    nodemon: ^2.0.15
-    prettier: ^2.6.2
+    "@commitlint/cli": 16.2.3
+    "@commitlint/config-conventional": 16.2.1
+    "@sapphire/prettier-config": 1.4.3
+    "@wildpeaks/eslint-config-commonjs": 15.4.0
+    "@wildpeaks/prettier-config": 15.4.0
+    eslint: 8.13.0
+    eslint-config-prettier: 8.5.0
+    eslint-plugin-prettier: 4.0.0
+    nodemon: 2.0.15
+    prettier: 2.6.2
   languageName: unknown
   linkType: soft
 
