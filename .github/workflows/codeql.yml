@@ -11,7 +11,8 @@ on:
     - cron: '30 1 * * 0'
 
 jobs:
-  CodeQL:
+  analyze:
+    name: Analyze
     runs-on: ubuntu-latest
     permissions:
       actions: read
@@ -29,6 +30,8 @@ jobs:
 
       - name: Initialize CodeQL
         uses: github/codeql-action/init@v1
+        with:
+          languages: ${{ matrix.language }}
 
       - name: Clean install dependencies and test
         run: |
