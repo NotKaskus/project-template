@@ -19,8 +19,8 @@
 	"author": "NotKaskus",
 	"license": "MIT",
 	"devDependencies": {
-		"@commitlint/cli": "17.0.1",
-		"@commitlint/config-conventional": "17.0.0",
+		"@commitlint/cli": "17.0.2",
+		"@commitlint/config-conventional": "17.0.2",
 		"@sapphire/prettier-config": "1.4.3",
 		"@wildpeaks/eslint-config-commonjs": "15.5.0",
 		"@wildpeaks/prettier-config": "15.5.0",
@@ -43,7 +43,7 @@
 		"url": "https://github.com/NotKaskus/template/issues"
 	},
 	"engines": {
-		"node": ">=v16.15.0",
+		"node": ">=v16.15.1",
 		"npm": ">=7.0.0"
 	},
 	"commitlint": {
