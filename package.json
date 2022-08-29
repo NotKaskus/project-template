@@ -19,11 +19,11 @@
 	"author": "NotKaskus",
 	"license": "MIT",
 	"devDependencies": {
-		"@commitlint/cli": "17.0.3",
-		"@commitlint/config-conventional": "17.0.3",
-		"@sapphire/prettier-config": "1.4.3",
-		"@wildpeaks/eslint-config-commonjs": "15.5.0",
-		"@wildpeaks/prettier-config": "15.5.0",
+		"@commitlint/cli": "17.1.2",
+		"@commitlint/config-conventional": "17.1.0",
+		"@sapphire/prettier-config": "1.4.4",
+		"@wildpeaks/eslint-config-commonjs": "15.6.0",
+		"@wildpeaks/prettier-config": "15.6.0",
 		"cz-conventional-changelog": "^3.3.0",
 		"eslint": "8.13.0",
 		"eslint-config-prettier": "8.5.0",
@@ -43,7 +43,7 @@
 		"url": "https://github.com/NotKaskus/template/issues"
 	},
 	"engines": {
-		"node": ">=v16.16.0",
+		"node": ">=v16.17.0",
 		"npm": ">=7.0.0"
 	},
 	"commitlint": {
@@ -62,5 +62,5 @@
 	"publishConfig": {
 		"access": "public"
 	},
-	"packageManager": "yarn@3.2.1"
+	"packageManager": "yarn@3.2.3"
 }
