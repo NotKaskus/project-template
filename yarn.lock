@@ -437,7 +437,6 @@ __metadata:
   version: 2.4.2
   resolution: "@pkgr/utils@npm:2.4.2"
   dependencies:
-
     cross-spawn: ^7.0.3
     fast-glob: ^3.3.0
     is-glob: ^4.0.3
@@ -533,11 +532,6 @@ __metadata:
   checksum: fd6bce2b674b6efc3db4c7c3d336bd70c90838e8439de639b909ce22f3720d21344f52427f1d9e57b265fcb7f6c018699b99e5e0c208a1a4823014269a6bf35b
   languageName: node
   linkType: hard
-
-"@wildpeaks/eslint-config-commonjs@npm:15.4.0":
-  version: 15.4.0
-  resolution: "@wildpeaks/eslint-config-commonjs@npm:15.4.0"
-  checksum: ed14d5dff3c3bb3cb35d6576fc388691191fb42096cf18c76ba14620c12933592a4de7a28ce4b781984daf8a02b2320befb85f08c5dbe6b3c93ffc4cb38ae727
 
 "@wildpeaks/eslint-config-commonjs@npm:15.7.0":
   version: 15.7.0
@@ -961,7 +955,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chalk@npm:^4.0.0":
+"chalk@npm:^4.0.0, chalk@npm:^4.1.0":
   version: 4.1.2
   resolution: "chalk@npm:4.1.2"
   dependencies:
@@ -1609,7 +1603,6 @@ __metadata:
   checksum: edb65dd0d7d1b9c40b2f50219aef30e116cedd6fc79290e740972c132c09106d2e80aa0bc8826673dd5a00222d4179c84b36a790eef63a4c4bca75a37ef90804
   languageName: node
   linkType: hard
-
 
 "default-browser-id@npm:^3.0.0":
   version: 3.0.0
@@ -3406,7 +3399,6 @@ __metadata:
   linkType: hard
 
 "minimist@npm:^1.2.5, minimist@npm:^1.2.6":
-
   version: 1.2.6
   resolution: "minimist@npm:1.2.6"
   checksum: d15428cd1e11eb14e1233bcfb88ae07ed7a147de251441d61158619dfb32c4d7e9061d09cab4825fdee18ecd6fce323228c8c47b5ba7cd20af378ca4048fb3fb
@@ -4435,17 +4427,6 @@ __metadata:
   bin:
     semver: bin/semver.js
   checksum: 2fa3e877568cd6ce769c75c211beaed1f9fce80b28338cadd9d0b6c40f2e2862bafd62c19a6cff42f3d54292b7c623277bcab8816a2b5521cf15210d43e75232
-  languageName: node
-  linkType: hard
-
-"semver@npm:^7.5.3":
-  version: 7.5.4
-  resolution: "semver@npm:7.5.4"
-  dependencies:
-    lru-cache: ^6.0.0
-  bin:
-    semver: bin/semver.js
-  checksum: 12d8ad952fa353b0995bf180cdac205a4068b759a140e5d3c608317098b3575ac2f1e09182206bf2eb26120e1c0ed8fb92c48c592f6099680de56bb071423ca3
   languageName: node
   linkType: hard
 
