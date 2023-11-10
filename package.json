@@ -19,8 +19,8 @@
 	"author": "NotKaskus",
 	"license": "MIT",
 	"devDependencies": {
-		"@commitlint/cli": "17.8.1",
-		"@commitlint/config-conventional": "17.8.1",
+		"@commitlint/cli": "18.4.0",
+		"@commitlint/config-conventional": "18.4.0",
 		"@sapphire/prettier-config": "2.0.0",
 		"@wildpeaks/eslint-config-commonjs": "15.7.0",
 		"@wildpeaks/prettier-config": "15.7.0",
