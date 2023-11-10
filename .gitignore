@@ -105,3 +105,4 @@ wiki/
 # Ignore replit files/configuration
 .replit
 replit.nix
+.breakpoints
